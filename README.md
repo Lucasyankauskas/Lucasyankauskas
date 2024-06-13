@@ -1,4 +1,4 @@
-<h1 align="center">Hi <box-icon type='solid' name='party'></box-icon> , I'm Lucas Yankauskas</h1>
+<h1 align="center">Hi <i class='bx bx-happy-beaming' ></i> , I'm Lucas Yankauskas</h1>
 <h3 align="center">A frontend/backend developer from Argentina</h3>
 
 - 🌱 currently learning **React,python and node.js**
