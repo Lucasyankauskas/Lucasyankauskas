@@ -3,7 +3,7 @@
 
 - 🌱 currently learning **React,python and node.js**
 
-- 👨‍💻 All of my projects are available at [[future portfolio incoming...] and here in github.]([future portfolio incoming...] and here in github.)
+- 👨‍💻 All of my projects are available at [here in github.]([future portfolio incoming...])
 
 - 📫 **yankauskas_lucas1@hotmail.com**
 
