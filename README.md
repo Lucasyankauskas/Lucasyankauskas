@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Yankauskas</h1>
 <h3 align="center">A frontend/backend developer from Argentina</h3>
 
-- 🌱 currently learning **node.js,React,and python**
+- 🌱 currently learning **React and python**
 
 - 👨‍💻 All of my projects are available at [here in github.]([future portfolio incoming...])
 
